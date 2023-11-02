@@ -10,6 +10,7 @@ repozitoriu pentru proiectul personal. Pentru a face acest lucru, dă click pe
 `"Use this template"` și selectează opțiunea `"Create a new repository"`, conform 
 imaginii.
 
+
 ![Creating repo from a template step 1](./assets/template-step-1.png)
 
 Următorul pas te va duce la pagina de creare a noului repozitoriu. Completează 
